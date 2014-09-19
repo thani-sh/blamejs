@@ -1,6 +1,6 @@
 {
   "name": "blamejs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Parse git blame -p output",
   "main": "index.js",
   "scripts": {
